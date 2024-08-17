@@ -1,6 +1,8 @@
 PCSXr360
 PS1 Emulator from Ced2911
 and other developers
+
+- Dreamboy
 - thomasmaruzs
 - cmkn1983
 - Swizzy
