@@ -3,6 +3,7 @@ PS1 Emulator from Ced2911
 and other developers
 - thomasmaruzs
 - cmkn1983
+- Swizzy
 - and others whose names I don't know
 - https://github.com/Ced2911/cloaked-ninja
 --------------------------------------
