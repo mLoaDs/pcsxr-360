@@ -2,8 +2,9 @@ PCSXr360
 PS1 Emulator from Ced2911
 and other developers
 - thomasmaruzs
-- cmkn 
-----------------
+- cmkn1983
+- and others whose names I don't know
+--------------------------------------
 
 v2.1.1a PNG Fix
 ---------------
