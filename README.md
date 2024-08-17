@@ -5,8 +5,9 @@ v2.1.1a PNG Fix
 ---------------
 * Changelog:
   
-   - Remove
-      - .jpg format and Added .png format for all image files and covers
+   - Improvements:
+      - Remove.jpg format
+      - Added .png format for all image         files and covers
 
 v2.1.1a
 -------
