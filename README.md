@@ -4,6 +4,7 @@ and other developers
 - thomasmaruzs
 - cmkn1983
 - and others whose names I don't know
+- https://github.com/Ced2911/cloaked-ninja
 --------------------------------------
 
 v2.1.1a PNG Fix
