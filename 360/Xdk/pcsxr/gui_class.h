@@ -1,4 +1,5 @@
-// remove .jpg format and add .png format for all image files and covers
+// Remove .jpg 
+// Added .png format for covers and icons
 // by mLoaD 07.2024
 #include <xtl.h>
 #include <xboxmath.h>
@@ -173,6 +174,7 @@ public:
 			// :s
 
 			//teste adding cover into scrool items
+			//added .png format for cover and icons
 			if (finfo.isDir) {
 				finfo.displayname = L"["+finfo.displayname+L"]";
 			    finfo.gamecover = L"file://game:/media/PsxSkin.xzp#media\\Graphics\\folder.png";
@@ -235,7 +237,7 @@ public:
 
 
 
-// ÛpdateDirList filter mode
+// Ã›pdateDirList filter mode
 	HRESULT UpdateDirListFilterMode(std::wstring currentDir = L"game:\\ROMS", char letter =(char)"") {
 		WIN32_FIND_DATA ffd;
 		std::string szDir;
