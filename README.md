@@ -1,6 +1,12 @@
-PCSXr360
-PS1 Emulator from Ced2911
-and other developers
+
+![pcsxr](https://github.com/user-attachments/assets/389f7e4e-8a22-4e08-906d-8005b0e8bfc8)
+
+PCSXr360 Emulator
+-----------------
+Is an PlayStation One emulator for the XBox 360 ported from Ced2911 and other developers
+
+PCSX-Reloaded is a forked version of the dead PCSX emulator
+
 
 - Dreamboy
 - thomasmaruzs
