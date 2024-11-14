@@ -6,6 +6,7 @@ Is an PlayStation One emulator for the XBox 360 ported from Ced2911 and other de
 
 PCSX-Reloaded is a forked version of the dead PCSX emulator
 
+How to: https://github.com/mLoaDs/PCSXr360/wiki
 
 - Dreamboy
 - thomasmaruzs
